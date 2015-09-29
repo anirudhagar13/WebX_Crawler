@@ -3,7 +3,7 @@ WEBX Application (Instructions):-
 -Establish an Internet Connection.
 -Open Webx>src>webx folder.
 -Run start file on IDE that supports Java.
--Download JSoup lib for the IDE and incorporate it. 
+-Put JSoup jar files into the project external library. 
 -On the User Interface enter no of pages to Crawl.
 -Write a base valid link and enter word to be searched.
 -Crawler displays web graph, green indicates links on which word found & red indicates links where not found.
