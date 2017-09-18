@@ -1,5 +1,3 @@
-WEBX Webcrawler Application
-
 > Performs depth first search crawling for a specific term from a base link mentioned by the user. Crawler jumps from one page to other navigational links situated on the page. The result also contains various other details of the search term such as the frequency and positions of the word on the webpage.
 
 How to Run:
